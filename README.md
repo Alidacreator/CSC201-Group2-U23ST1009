@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- DADA JESSE AYOMIKUN
+- U23ST1009
 
 ## Getting Started
 
